@@ -85,3 +85,20 @@
 5. Great Developer Habits: https://developer.apple.com/videos/play/wwdc2019/239/
 6. What's new in Core Bluetooth: https://developer.apple.com/videos/play/wwdc2019/901/
 7. Modeling in Custom Instruments: https://developer.apple.com/videos/play/wwdc2019/421/
+
+## WWDC 2018
+
+### Completed
+
+1. Introduction to Siri Shortcuts: https://developer.apple.com/videos/play/wwdc2018/211/
+2. Source Control Workflows in Xcode: https://developer.apple.com/videos/play/wwdc2018/418/
+3. Embracing Algorithms: https://developer.apple.com/videos/play/wwdc2018/223/
+4. Using Collections Effectively: https://developer.apple.com/videos/play/wwdc2018/229/
+5. Designing Notifications: https://developer.apple.com/videos/play/wwdc2018/806/
+6. Understanding Crashes and Crash Logs: https://developer.apple.com/videos/play/wwdc2018/414/
+7. Swift Generics (Expanded): https://developer.apple.com/videos/play/wwdc2018/406/
+
+### In-Progress
+
+1. Deliver an Exceptional Accessibility Experience: https://developers.apple.com/videos/play/wwdc2018/230/
+2. UIKit: Apps for Every Size and Shape: https://developer.apple.com/videos/play/wwdc2018/235/
