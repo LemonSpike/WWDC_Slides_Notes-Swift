@@ -34,5 +34,30 @@
 
 ### Completed
 
+1. What's new in Swift: https://developer.apple.com/videos/play/wwdc2020/10170/
+1. What's new in SwiftUI: https://developer.apple.com/videos/play/wwdc2020/10041/
+1. What's new in HealthKit: https://developer.apple.com/videos/play/wwdc2020/10182/
+1. Structure your app for SwiftUI previews: https://developer.apple.com/videos/play/wwdc2020/10149/
+1. Lists in UICollectionView: https://developer.apple.com/videos/play/wwdc2020/10026/
+1. Swift packages: Resources and localization: https://developer.apple.com/videos/play/wwdc2020/10169/
+1. Explore App Clips: https://developer.apple.com/videos/play/wwdc2020/10174/
+1. Design great App Clips: https://developer.apple.com/videos/play/wwdc2020/10172/
+1. Advancements in the Objective-C runtime: https://developer.apple.com/videos/play/wwdc2020/10163
+1. Meet WidgetKit: https://developer.apple.com/videos/play/wwdc2020/10028/
+1. Widgets Code-along, part 1: The adventure begins: https://developer.apple.com/videos/play/wwdc2020/10034/
+1. Widgets Code-along, part 2: Alternate timelines: https://developer.apple.com/videos/play/wwdc2020/10035/
+1. Widgets Code-along, part 3: Advancing timelines: https://developer.apple.com/videos/play/wwdc2020/10036/
 1. Build an Action Classifier with Create ML: https://developer.apple.com/videos/play/wwdc2020/10043
+1. Detect Body and Hand Pose with Vision: https://developer.apple.com/videos/play/wwdc2020/10653/
 2. Explore the Action & Vision app: https://developer.apple.com/videos/play/wwdc2020/10099
+
+### In-Progress
+
+1. Advances in UICollectionView: https://developer.apple.com/videos/play/wwdc2020/10097/
+2. Advances in diffable data sources: https://developer.apple.com/videos/play/wwdc2020/10045/
+3. Configure and link your App Clips: https://developer.apple.com/videos/play/wwdc2020/10146/
+4. What's new in Mac Catalyst: https://developer.apple.com/videos/play/wwdc2020/10143/
+5. Secure your app: threat modeling and anti-patterns: https://developer.apple.com/videos/play/wwdc2020/10189/
+6. Embrace Swift type inference: https://developer.apple.com/videos/play/wwdc2020/10165/
+7. Add configuration and intelligence to your widgets: https://developer.apple.com/videos/play/wwdc2020/10194/
+8. Design great widgets: https://developer.apple.com/videos/play/wwdc2020/10103/
