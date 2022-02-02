@@ -102,3 +102,11 @@
 
 1. Deliver an Exceptional Accessibility Experience: https://developers.apple.com/videos/play/wwdc2018/230/
 2. UIKit: Apps for Every Size and Shape: https://developer.apple.com/videos/play/wwdc2018/235/
+
+## WWDC 2017
+
+### Completed
+
+1. Convenience for You is Independence for Me: https://developer.apple.com/videos/play/wwdc2017/110/
+2. Design For Everyone: https://developer.apple.com/videos/play/wwdc2017/806/
+3. Auto Layout Techniques in Interface Builder: https://developer.apple.com/videos/play/wwdc2017/412/
