@@ -115,6 +115,12 @@
 2. Design For Everyone: https://developer.apple.com/videos/play/wwdc2017/806/
 3. Auto Layout Techniques in Interface Builder: https://developer.apple.com/videos/play/wwdc2017/412/
 
+## WWDC 2016
+
+### Completed
+
+1. Understanding Swift Performance: https://developer.apple.com/videos/play/wwdc2016/416/
+
 ## WWDC 2015
 
 ### Completed
