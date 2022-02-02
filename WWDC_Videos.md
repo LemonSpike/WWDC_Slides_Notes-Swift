@@ -29,6 +29,9 @@
 
 1. Elevate your DocC documentation in Xcode: https://developer.apple.com/videos/play/wwdc2021/10167
 2. Explore Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10268/
+2. Meet StoreKit 2: https://developer.apple.com/videos/play/wwdc2021/10114/
+2. Meditation for fidgets skeptics: https://developer.apple.com/videos/play/wwdc2021/10316/
+2. Immerse your app in spatial audio: https://developer.apple.com/videos/play/wwdc2021/10265/
 
 ## WWDC 2020
 
@@ -85,6 +88,7 @@
 5. Great Developer Habits: https://developer.apple.com/videos/play/wwdc2019/239/
 6. What's new in Core Bluetooth: https://developer.apple.com/videos/play/wwdc2019/901/
 7. Modeling in Custom Instruments: https://developer.apple.com/videos/play/wwdc2019/421/
+7. Advances in macOS Security: https://developers.apple.com/videos/play/wwdc2019/701/
 
 ## WWDC 2018
 
