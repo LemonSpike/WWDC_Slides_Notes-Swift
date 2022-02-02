@@ -61,3 +61,27 @@
 6. Embrace Swift type inference: https://developer.apple.com/videos/play/wwdc2020/10165/
 7. Add configuration and intelligence to your widgets: https://developer.apple.com/videos/play/wwdc2020/10194/
 8. Design great widgets: https://developer.apple.com/videos/play/wwdc2020/10103/
+
+## WWDC 2019
+
+### Completed
+
+1. What's new in Xcode 11: https://developer.apple.com/videos/play/wwdc2019/401/
+2. Introducing SwiftUI: Building Your First App: https://developer.apple.com/videos/play/wwdc2019/204/
+3. Getting Started with Xcode: https://developer.apple.com/videos/play/wwdc2019/404
+4. Introducing iPad Apps for Mac: https://developer.apple.com/videos/play/wwdc2019/205
+5. Introducing SiriKit Media Intents: https://developer.apple.com/videos/play/wwdc2019/207/
+6. LLDB: Beyond "po": https://developer.apple.com/videos/play/wwdc2019/429/
+7. SwiftUI Essentials: https://developer.apple.com/videos/play/wwdc2019/216/
+8. Introducing Combine: https://developer.apple.com/videos/play/wwdc2019/722/
+9. Making Apps with Core Data: https://developer.apple.com/videos/play/wwdc2019/230
+
+## In-Progress
+
+1. Introducing the Create ML App: https://developer.apple.com/videos/play/wwdc2019/430/
+2. Creating Great Apps Using Core ML and ARKit: https://developer.apple.com/videos/play/wwdc2019/228/
+3. Binary Frameworks in Swift: https://developer.apple.com/videos/play/wwdc2019/416/
+4. Taking iPad Apps for Mac to the Next Level: https://developer.apple.com/videos/play/wwdc2019/235/
+5. Great Developer Habits: https://developer.apple.com/videos/play/wwdc2019/239/
+6. What's new in Core Bluetooth: https://developer.apple.com/videos/play/wwdc2019/901/
+7. Modeling in Custom Instruments: https://developer.apple.com/videos/play/wwdc2019/421/
