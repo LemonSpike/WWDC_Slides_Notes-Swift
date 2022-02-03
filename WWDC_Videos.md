@@ -90,6 +90,7 @@
 6. What's new in Core Bluetooth: https://developer.apple.com/videos/play/wwdc2019/901/
 7. Modeling in Custom Instruments: https://developer.apple.com/videos/play/wwdc2019/421/
 7. Advances in macOS Security: https://developers.apple.com/videos/play/wwdc2019/701/
+7. Testing in Xcode: https://developer.apple.com/videos/play/wwdc2019/413/
 
 ## WWDC 2018
 
