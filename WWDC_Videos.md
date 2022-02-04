@@ -25,6 +25,7 @@
 19. Review code and collaborate in Xcode: https://developer.apple.com/videos/play/wwdc2021/10205/
 20. Get ready for iCloud Private Relay: https://developer.apple.com/videos/play/wwdc2021/10096/
 20. Explore Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10268/
+20. Customize your advanced Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10269
 20. Meet the Swift Algorithms and Collections packages: https://developer.apple.com/videos/play/wwdc2021/10256/
 
 ### In-Progress
