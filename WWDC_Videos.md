@@ -80,6 +80,7 @@
 7. SwiftUI Essentials: https://developer.apple.com/videos/play/wwdc2019/216/
 8. Introducing Combine: https://developer.apple.com/videos/play/wwdc2019/722/
 9. Making Apps with Core Data: https://developer.apple.com/videos/play/wwdc2019/230
+9. Testing in Xcode: https://developer.apple.com/videos/play/wwdc2019/413/
 
 ## In-Progress
 
@@ -91,7 +92,6 @@
 6. What's new in Core Bluetooth: https://developer.apple.com/videos/play/wwdc2019/901/
 7. Modeling in Custom Instruments: https://developer.apple.com/videos/play/wwdc2019/421/
 7. Advances in macOS Security: https://developers.apple.com/videos/play/wwdc2019/701/
-7. Testing in Xcode: https://developer.apple.com/videos/play/wwdc2019/413/
 
 ## WWDC 2018
 
