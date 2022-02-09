@@ -36,3 +36,17 @@ Post-actions: sending notifications, or distributing.
 ![TestFlight post-actions](post-actions.png)
 
 We can also add release branch external build workflows, as well as overnight scheduled testing builds (UI tests, Smoke tests, Unit tests and Analyze steps).
+
+Release workflow:
+
+1. Start condition: changes to 'release' branch
+2. Execute a full set of tests
+3. Runs archive
+4.  Deploys to external TestFlight group
+
+Overnight testing workflow:
+
+1. Runs on a schedule
+2. Runs on many simulators, multiple platforms
+3. Notifies the QA team on failure
+4. No deployment
