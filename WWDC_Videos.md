@@ -27,13 +27,13 @@
 20. Explore Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10268/
 20. Customize your advanced Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10269
 20. Meet the Swift Algorithms and Collections packages: https://developer.apple.com/videos/play/wwdc2021/10256/
+20. Elevate your DocC documentation in Xcode: https://developer.apple.com/videos/play/wwdc2021/10167
 
 ### In-Progress
 
-1. Elevate your DocC documentation in Xcode: https://developer.apple.com/videos/play/wwdc2021/10167
-2. Meet StoreKit 2: https://developer.apple.com/videos/play/wwdc2021/10114/
+1. Meet StoreKit 2: https://developer.apple.com/videos/play/wwdc2021/10114/
 2. Meditation for fidgety skeptics: https://developer.apple.com/videos/play/wwdc2021/10316/
-2. Immerse your app in spatial audio: https://developer.apple.com/videos/play/wwdc2021/10265/
+3. Immerse your app in spatial audio: https://developer.apple.com/videos/play/wwdc2021/10265/
 
 ## WWDC 2020
 
