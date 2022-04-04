@@ -28,6 +28,7 @@
 20. Customize your advanced Xcode Cloud workflows: https://developer.apple.com/videos/play/wwdc2021/10269
 20. Meet the Swift Algorithms and Collections packages: https://developer.apple.com/videos/play/wwdc2021/10256/
 20. Elevate your DocC documentation in Xcode: https://developer.apple.com/videos/play/wwdc2021/10167
+20. Host and automate your DocC documentation: https://developer.apple.com/videos/play/wwdc2021/10236
 20. Discover breakpoint improvements: https://developer.apple.com/videos/play/wwdc2021/10209/
 21. Ultimate application performance survival guide: https://developer.apple.com/videos/play/wwdc2021/10181/
 
