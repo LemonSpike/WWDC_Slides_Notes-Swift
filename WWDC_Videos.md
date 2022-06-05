@@ -33,12 +33,12 @@
 21. Ultimate application performance survival guide: https://developer.apple.com/videos/play/wwdc2021/10181/
 22. What's new in SF Symbols: https://developer.apple.com/wwdc21/10097
 23. AR Quick Look, meet Object Capture: https://developer.apple.com/wwdc21/10078
+24. Immerse your app in spatial audio: https://developer.apple.com/videos/play/wwdc2021/10265/
 
 ### In-Progress
 
 1. Meet StoreKit 2: https://developer.apple.com/videos/play/wwdc2021/10114/
 2. Meditation for fidgety skeptics: https://developer.apple.com/videos/play/wwdc2021/10316/
-3. Immerse your app in spatial audio: https://developer.apple.com/videos/play/wwdc2021/10265/
 
 ## WWDC 2020
 
