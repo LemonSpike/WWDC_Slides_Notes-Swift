@@ -31,6 +31,7 @@
 20. Host and automate your DocC documentation: https://developer.apple.com/videos/play/wwdc2021/10236
 20. Discover breakpoint improvements: https://developer.apple.com/videos/play/wwdc2021/10209/
 21. Ultimate application performance survival guide: https://developer.apple.com/videos/play/wwdc2021/10181/
+22. What's new in SF Symbols: https://developer.apple.com/wwdc21/10097
 
 ### In-Progress
 
