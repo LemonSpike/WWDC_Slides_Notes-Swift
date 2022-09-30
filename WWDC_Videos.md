@@ -4,6 +4,8 @@
 
 ### Completed
 
+1. Debug Swift Debugging with LLDB: https://developer.apple.com/videos/play/wwdc2022/110370/
+
 ### In-Progress
 
 ## WWDC 2021
