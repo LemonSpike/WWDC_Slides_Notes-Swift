@@ -136,6 +136,7 @@
 ### Completed
 
 1. Understanding Swift Performance: https://developer.apple.com/videos/play/wwdc2016/416/
+2. Session 206: What's New in tvOS
 
 ## WWDC 2015
 
