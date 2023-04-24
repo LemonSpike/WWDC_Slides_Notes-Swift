@@ -47,6 +47,7 @@
 
 1. Meet StoreKit 2: https://developer.apple.com/videos/play/wwdc2021/10114/
 2. Meditation for fidgety skeptics: https://developer.apple.com/videos/play/wwdc2021/10316/
+3. Deliver a great playback experience on tvOS
 
 ## WWDC 2020
 
