@@ -123,7 +123,7 @@
 
 1. Deliver an Exceptional Accessibility Experience: https://developers.apple.com/videos/play/wwdc2018/230/
 2. UIKit: Apps for Every Size and Shape: https://developer.apple.com/videos/play/wwdc2018/235/
-3. Deliver a great playback experience on tvOS
+3. Session 208: What's New in tvOS 12
 
 ## WWDC 2017
 
