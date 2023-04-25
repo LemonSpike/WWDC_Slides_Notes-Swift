@@ -118,12 +118,12 @@
 5. Designing Notifications: https://developer.apple.com/videos/play/wwdc2018/806/
 6. Understanding Crashes and Crash Logs: https://developer.apple.com/videos/play/wwdc2018/414/
 7. Swift Generics (Expanded): https://developer.apple.com/videos/play/wwdc2018/406/
+8. Session 208: What's New in tvOS 12
 
 ### In-Progress
 
 1. Deliver an Exceptional Accessibility Experience: https://developers.apple.com/videos/play/wwdc2018/230/
 2. UIKit: Apps for Every Size and Shape: https://developer.apple.com/videos/play/wwdc2018/235/
-3. Session 208: What's New in tvOS 12
 
 ## WWDC 2017
 
