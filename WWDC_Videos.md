@@ -1,5 +1,11 @@
 # WWDC Videos watched
 
+## WWDC 2023
+
+### Completed
+
+1. Expand on Swift macros: https://developer.apple.com/wwdc23/10167
+
 ## WWDC 2022
 
 ### Completed
