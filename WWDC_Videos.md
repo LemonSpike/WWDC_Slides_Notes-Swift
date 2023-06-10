@@ -5,6 +5,7 @@
 ### Completed
 
 1. Expand on Swift macros: https://developer.apple.com/wwdc23/10167
+2. Meet SwiftData: https://developer.apple.com/wwdc23/10187
 
 ## WWDC 2022
 
