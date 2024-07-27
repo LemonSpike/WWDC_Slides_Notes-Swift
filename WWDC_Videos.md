@@ -1,5 +1,14 @@
 # WWDC Videos watched
 
+## WWDC 2024
+
+### Completed
+
+1. Platforms State of the Union: https://developer.apple.com/wwdc24/102
+2. Explore machine learning on Apple platforms: https://developer.apple.com/wwdc24/10223
+3. What's new in Swift: https://developer.apple.com/wwdc24/10136
+4. Design great visionOS apps: https://developer.apple.com/wwdc24/10086
+
 ## WWDC 2023
 
 ### Completed
