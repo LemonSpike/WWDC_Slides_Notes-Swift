@@ -8,7 +8,8 @@
 2. Explore machine learning on Apple platforms: https://developer.apple.com/wwdc24/10223
 3. What's new in Swift: https://developer.apple.com/wwdc24/10136
 4. Design great visionOS apps: https://developer.apple.com/wwdc24/10086
-5. What's new in Xcode 16: https://developer.apple.com/wwdc24/10135 
+5. What's new in Xcode 16: https://developer.apple.com/wwdc24/10135
+6. What's new in SwiftUI: https://developer.apple.com/wwdc24/10144
 
 ## WWDC 2023
 
