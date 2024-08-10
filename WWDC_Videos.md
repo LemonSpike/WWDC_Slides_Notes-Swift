@@ -10,7 +10,8 @@
 4. Design great visionOS apps: https://developer.apple.com/wwdc24/10086
 5. What's new in Xcode 16: https://developer.apple.com/wwdc24/10135
 6. What's new in SwiftUI: https://developer.apple.com/wwdc24/10144
-
+7. What's new in Wallet and Apple Pay: https://developer.apple.com/wwdc24/10108
+ 
 ## WWDC 2023
 
 ### Completed
