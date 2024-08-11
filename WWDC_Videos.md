@@ -11,6 +11,7 @@
 5. What's new in Xcode 16: https://developer.apple.com/wwdc24/10135
 6. What's new in SwiftUI: https://developer.apple.com/wwdc24/10144
 7. What's new in Wallet and Apple Pay: https://developer.apple.com/wwdc24/10108
+8. Meet Swift Testing: https://developer.apple.com/wwdc24/10179
  
 ## WWDC 2023
 
