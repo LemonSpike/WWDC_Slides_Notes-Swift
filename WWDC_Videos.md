@@ -1,5 +1,12 @@
 # WWDC Videos watched
 
+## WWDC 2025
+
+### Completed
+
+1. Platforms State of the Union: https://developer.apple.com/videos/play/wwdc2025/102
+2. What's new in Swift: https://developer.apple.com/videos/play/wwdc2025/245
+
 ## WWDC 2024
 
 ### Completed
